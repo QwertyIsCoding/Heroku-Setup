@@ -40,7 +40,8 @@ Built for Heroku for Python3(version can be changed)
 
 3. Open requirements.txt to see if your imports are there or use 
 
-```pip3 freeze requirements.txt
+```
+pip3 freeze requirements.txt
 ```
 
 4. Open the Procfile and add the .py file name
