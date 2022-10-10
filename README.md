@@ -9,7 +9,7 @@
   </p>
 </p>
 
-![Downloads](https://img.shields.io/github/downloads/QwertyIsCoding/Heroku Setup/total) ![Contributors](https://img.shields.io/github/contributors/QwertyIsCoding/Heroku Setup?color=dark-green) ![Issues](https://img.shields.io/github/issues/QwertyIsCoding/Heroku Setup) ![License](https://img.shields.io/github/license/QwertyIsCoding/Heroku Setup) 
+
 
 ## Table Of Contents
 
