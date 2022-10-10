@@ -65,7 +65,7 @@ Contributions are what make the open source community such an amazing place to b
 
 ## Authors
 
-* **QwertyIsCoding** - ** - [QwertyIsCoding](https://github.com/ShaanCoding/) - *Built ReadME Template*
+* **QwertyIsCoding** - ** - [QwertyIsCoding](https://github.com/ShaanCoding/)
 
 ## Acknowledgements
 
