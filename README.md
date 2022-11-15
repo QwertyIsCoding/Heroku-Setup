@@ -68,7 +68,7 @@ Or create a PR using the GitHub website.
 
 ## Authors
 
-* **QwertyIsCoding** - ** - [QwertyIsCoding](https://github.com/ShaanCoding/)
+* **QwertyIsCoding**  - [QwertyIsCoding](https://github.com/ShaanCoding/)
 
 ## Acknowledgements
 
