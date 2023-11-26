@@ -3,7 +3,7 @@
   <h3 align="center">Basic Heroku Setup </h3>
 
   <p align="center">
-    This is the file structure for a basic Heroku setup for a Discord bot. 
+    This is the file structure for a basic Heroku setup for a Discord bot. I would recommend going through a tutorial on how to use Heroku but this can be used as a guideline -- to know what each file does.
     <br/>
     <br/>
   </p>
